@@ -1,0 +1,5 @@
+model
+data/test_index.txt 
+data/train_index.txt 
+data/sm_rf_tags.txt
+*.ipynb
