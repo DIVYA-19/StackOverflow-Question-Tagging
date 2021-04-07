@@ -5,7 +5,7 @@ from transformers import BertModel
 
 import preprocessing as P 
 
-threshold = 0.1
+threshold = 0.2
 tags = eval(open('data/tags.txt', 'r').read())
 tags = np.array(list(tags))
 
