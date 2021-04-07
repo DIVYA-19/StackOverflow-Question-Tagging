@@ -9,9 +9,9 @@ Embedding for the text are generated using BERT tokenizer using transformers lib
 `bert-base-uncased` model along with fully connected layer is used as predicting model. 
 
 # Performance
-f1 score: 69% <br/>
-precision: 69% <br/>
-recall: 70% <br/>
+f1 score: 55% <br/>
+precision: 55% <br/>
+recall: 54% <br/>
 
 # API
 API has been built using `FastAPI`
