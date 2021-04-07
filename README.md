@@ -5,8 +5,13 @@ StackOverflow allows users to tag their queries with appropriate tag names. This
 # Embedding
 Embedding for the text are generated using BERT tokenizer using transformers library. 
 
-# model
+# Model
 `bert-base-uncased` model along with fully connected layer is used as predicting model. 
+
+# Performance
+f1 score: 69% <br/>
+precision: 69% <br/>
+recall: 70% <br/>
 
 # API
 API has been built using `FastAPI`
